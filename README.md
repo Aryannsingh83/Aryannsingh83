@@ -4,21 +4,19 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Aryannsingh83">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="linkedin.com/in/aryann-singh-bb4929380">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aryannsingh83@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563eb&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -66,7 +64,7 @@ Smart agricultural workflow platform built for a hackathon.
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME/krishi-setu">
+<a href="https://github.com/Aryannsingh83/krishi-setu">
 <b>View Project →</b>
 </a>
 
@@ -85,7 +83,7 @@ C++ implementations and problem-solving practice covering core data structures a
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME/cpp-dsa">
+<a href="https://github.com/Aryannsingh83/cpp-dsa">
 <b>View Repository →</b>
 </a>
 
@@ -108,7 +106,7 @@ A practical application for tracking and organizing personal expenses.
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME/money-tracker">
+<a href="https://github.com/Aryannsingh83/money-tracker">
 <b>View Project →</b>
 </a>
 
@@ -145,11 +143,11 @@ Exploring projects across software engineering, AI/ML and web technologies.
 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannsingh83&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Aryannsingh83&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -159,7 +157,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c9d1d9&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryannsingh83&bg_color=0d1117&color=c9d1d9&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -173,11 +171,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <br>
 
-**Learn → Build → Ship → Improve**
+**Explore → Build → Learn → Evolve**
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="linkedin.com/in/aryann-singh-bb4929380">
 <img src="https://img.shields.io/badge/Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -187,3 +185,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:172554,100:0f172a&height=110&section=footer" width="100%"/>
 
+__________________________________________________________________________________________________
