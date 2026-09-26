@@ -185,4 +185,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannsingh8
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:172554,100:0f172a&height=110&section=footer" width="100%"/>
 
-__________________________________________________________________________________________________
