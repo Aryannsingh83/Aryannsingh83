@@ -175,7 +175,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannsingh8
 
 <br><br>
 
-<a href="linkedin.com/in/aryann-singh-bb4929380">
+<a href="https://www.linkedin.com/in/aryann-singh-bb4929380">
 <img src="https://img.shields.io/badge/Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
