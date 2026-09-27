@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="linkedin.com/in/aryann-singh-bb4929380">
+<a href="https://www.linkedin.com/in/aryann-singh-bb4929380">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
