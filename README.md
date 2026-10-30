@@ -64,7 +64,7 @@ Smart agricultural workflow platform built for a hackathon.
 
 <br><br>
 
-<a href="https://github.com/Aryannsingh83/SIH_PROJECT_2026">
+<a href="https://sih-project-ruby.vercel.app/">
 <b>View Project →</b>
 </a>
 
@@ -106,7 +106,7 @@ A practical application for tracking and organizing personal expenses.
 
 <br><br>
 
-<a href="https://sih-project-ruby.vercel.app/">
+<a href="">
 <b>View Project →</b>
 </a>
 
