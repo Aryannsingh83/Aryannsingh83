@@ -83,7 +83,7 @@ C++ implementations and problem-solving practice covering core data structures a
 
 <br><br>
 
-<a href="https://github.com/Aryannsingh83/cpp-dsa">
+<a href="https://github.com/Aryannsingh83/-DSA-Journey">
 <b>View Repository →</b>
 </a>
 
