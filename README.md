@@ -64,7 +64,7 @@ Smart agricultural workflow platform built for a hackathon.
 
 <br><br>
 
-<a href="sih-project-ruby.vercel.app">
+<a href="https://github.com/Aryannsingh83/SIH_PROJECT_2026">
 <b>View Project →</b>
 </a>
 
