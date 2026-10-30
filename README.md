@@ -64,7 +64,7 @@ Smart agricultural workflow platform built for a hackathon.
 
 <br><br>
 
-<a href="https://github.com/Aryannsingh83/krishi-setu">
+<a href="sih-project-ruby.vercel.app">
 <b>View Project →</b>
 </a>
 
