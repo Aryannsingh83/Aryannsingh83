@@ -106,7 +106,7 @@ A practical application for tracking and organizing personal expenses.
 
 <br><br>
 
-<a href="https://github.com/Aryannsingh83/money-tracker">
+<a href="https://sih-project-ruby.vercel.app/">
 <b>View Project →</b>
 </a>
 
