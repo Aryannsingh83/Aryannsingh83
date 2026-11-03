@@ -139,25 +139,9 @@ Exploring projects across software engineering, AI/ML and web technologies.
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=Aryannsingh83&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannsingh83&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Aryannsingh83&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryannsingh83&bg_color=0d1117&color=58a6ff&line=3b82f6&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
