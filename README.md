@@ -157,7 +157,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannsingh8
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryannsingh83&bg_color=0d1117&color=c9d1d9&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryannsingh83&bg_color=0d1117&color=58a6ff&line=3b82f6&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
