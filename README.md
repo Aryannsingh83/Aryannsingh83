@@ -106,7 +106,7 @@ A practical application for tracking and organizing personal expenses.
 
 <br><br>
 
-<a href="">
+<a href="-----------">
 <b>View Project →</b>
 </a>
 
